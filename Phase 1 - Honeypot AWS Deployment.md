@@ -54,7 +54,7 @@ In Phase 1 we:
    - **Port range:** 22  
    - **Source:** Your IP (CIDR), e.g. `203.0.113.45/32`  
 
-   AWS will warn if you open SSH to `0.0.0.0/0`—we recommend restricting it to your workstation IP.![[Screenshot 2.png]]
+   AWS will warn if you open SSH to `0.0.0.0/0`—we recommend restricting it to your workstation IP.
 
 ---
 
